@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p3f1rerumitalica27murauoft_0097.png"; bbox 0 0 2388 3439; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 606 1268 1803 1410">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 606 1268 1803 1410">
+     <span class='ocr_line' id='line_1_1' title="bbox 1191 1268 1216 1301; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1191 1268 1216 1301; x_wconf 80' lang='lat'><strong>1.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 606 1373 1803 1410; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 606 1374 850 1409; x_wconf 83' lang='lat' dir='ltr'><strong>LETTERE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 880 1373 930 1409; x_wconf 90' lang='lat' dir='ltr'><strong>D1</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 963 1373 1228 1409; x_wconf 85' lang='lat' dir='ltr'>GIOVANNI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1257 1373 1509 1410; x_wconf 90' lang='lat' dir='ltr'>ANTONIO</span> <span class='ocrx_word' id='word_1_6' title='bbox 1540 1374 1803 1410; x_wconf 78' lang='lat' dir='ltr'>CAMPANO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 407 1468 2002 1518">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 407 1468 2002 1518">
+     <span class='ocr_line' id='line_1_3' title="bbox 407 1468 2002 1518; baseline 0.001 -4"><span class='ocrx_word' id='word_1_7' title='bbox 407 1480 511 1514; x_wconf 66' lang='lat' dir='ltr'><strong>cHE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 541 1480 584 1515; x_wconf 79' lang='lat' dir='ltr'><strong>Sl</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 613 1479 961 1516; x_wconf 84' lang='lat' dir='ltr'>RIFERISCONO</span> <span class='ocrx_word' id='word_1_10' title='bbox 991 1480 1338 1516; x_wconf 83' lang='lat' dir='ltr'>ALL’ASSEDlO</span> <span class='ocrx_word' id='word_1_11' title='bbox 1368 1481 1420 1516; x_wconf 96' lang='lat' dir='ltr'><strong>DI</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1450 1468 1611 1515; x_wconf 66' lang='lat' dir='ltr'><strong>ClTTA</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1641 1482 1692 1516; x_wconf 92' lang='lat' dir='ltr'><strong>DI</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1723 1480 2002 1518; x_wconf 89' lang='lat' dir='ltr'>CASTELLO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
